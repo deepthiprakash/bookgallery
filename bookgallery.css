@@ -1,0 +1,69 @@
+body {
+    background-color: black;
+    background-image: url(./images/hp\ background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+H1 {
+    color: rgb(245, 239, 239);
+    margin-left: 730px;
+    font-size:xx-large;
+}
+
+div {
+    width: 20%;
+    height: 200px;
+    background-color: rgb(13, 13, 70);
+    border: 2px black solid;
+    float: left;
+    color: white;
+    padding: 15px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: -6px;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+img {
+    height: 86%;
+    float: left;
+}
+
+p {
+    color: white;
+    text-align: justify;
+    font-size: small;
+}
+
+#a {
+    margin-left: 77px;
+}
+
+#b {
+    margin-left: 20px;
+}
+
+#c {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#a1 {
+    margin-left: 77px;
+    margin-top: 20px;
+}
+button{
+    margin-left: 85px;
+    background-color: brown;
+}
+#d{
+    color: yellow;
+}
+
